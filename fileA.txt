@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is File A which created by pk1
+=======
+This is File A which created by pk
+this is fast forward merge.
+>>>>>>> FeatureA
