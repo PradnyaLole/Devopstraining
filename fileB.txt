@@ -1,2 +1,2 @@
 This is file B.
-this is sunday.
+this is sunday1.
