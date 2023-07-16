@@ -1,6 +1,2 @@
 This is file B.
-<<<<<<< HEAD
-this is version 1
-=======
-this is sunday.
->>>>>>> FeatureA
+versionb
